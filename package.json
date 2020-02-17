@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-konami-code",
+  "version": "1.0.0",
+  "description": "Practicing with AngularJS; a silly interaction with the Konami Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kelvin-Lee/angularjs-konami-code.git"
+  },
+  "author": "Kelvin Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kelvin-Lee/angularjs-konami-code/issues"
+  },
+  "homepage": "https://github.com/Kelvin-Lee/angularjs-konami-code#readme"
+}
